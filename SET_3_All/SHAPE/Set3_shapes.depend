@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1600608649 source:f:\divyesh files\genesis\assighnment\git-demo\genesis\set3\set3_shapes\main.cpp
+	<iostream>
+	"triangle.h"
+	"shape.h"
+	"rectangle.h"
+	"polygon.h"
+	"circle.h"
+	<cmath>
+
+1600453808 f:\divyesh files\genesis\assighnment\git-demo\genesis\set3\set3_shapes\triangle.h
+	"polygon.h"
+
+1600608604 f:\divyesh files\genesis\assighnment\git-demo\genesis\set3\set3_shapes\polygon.h
+	"shape.h"
+
+1600451932 f:\divyesh files\genesis\assighnment\git-demo\genesis\set3\set3_shapes\shape.h
+
+1600453796 f:\divyesh files\genesis\assighnment\git-demo\genesis\set3\set3_shapes\rectangle.h
+	"polygon.h"
+
+1600597413 f:\divyesh files\genesis\assighnment\git-demo\genesis\set3\set3_shapes\circle.h
+	"shape.h"
+
+1600659734 source:c:\users\training.bltsp01737\documents\practice\set3\shape\main.cpp
+	<iostream>
+	"triangle.h"
+	"shape.h"
+	"rectangle.h"
+	"polygon.h"
+	"circle.h"
+	<cmath>
+
+1600657931 c:\users\training.bltsp01737\documents\practice\set3\shape\triangle.h
+	"polygon.h"
+
+1600659734 c:\users\training.bltsp01737\documents\practice\set3\shape\polygon.h
+	"shape.h"
+
+1600657899 c:\users\training.bltsp01737\documents\practice\set3\shape\shape.h
+
+1600657883 c:\users\training.bltsp01737\documents\practice\set3\shape\rectangle.h
+	"polygon.h"
+
+1600657871 c:\users\training.bltsp01737\documents\practice\set3\shape\circle.h
+	"shape.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1600668847 source:c:\users\training.bltsp01737\documents\practice\banking\main.cpp
+	<iostream>
+	"Account.h"
+	"CreditAccount.h"
+	"SavingsAccount.h"
+
+1600668638 c:\users\training.bltsp01737\documents\practice\banking\account.h
+	<string>
+
+1600668326 c:\users\training.bltsp01737\documents\practice\banking\creditaccount.h
+	<string>
+	"account.h"
+
+1600668325 c:\users\training.bltsp01737\documents\practice\banking\savingsaccount.h
+	<string>
+	"account.h"
+
